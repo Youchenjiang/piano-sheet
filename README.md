@@ -25,8 +25,14 @@ A personal collection of piano sheet music, including song titles and original s
 
 ### Night Piano Sheets (`night-piano/`)
 
-- Format: `[夜的鋼琴曲X-Difficulty]Number(Title).ext`
-- Example: `[夜的鋼琴曲０-X]1(一個人).pdf`
+- Format: `[Chapter]Number(Title).ext`
+- Example: `[0]1(一個人).pdf`, `[Ⅰ]32(一個人的時光).pdf`
+- Chapter markers:
+  - `[0]` - Initial Demo version (網路連載版 1-31)
+  - `[Ⅰ]` - Season 1 Album (第一季專輯)
+  - `[Ⅱ]` - Season 2 Album (第二季專輯)
+  - `[Ⅲ]` - Season 3 Album (第三季專輯)
+  - `[Ⅳ]` - Season 4 Album (第四季專輯)
 - No `~` marker as these are series collections
 
 ## Emotion Categories
