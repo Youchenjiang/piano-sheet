@@ -87,3 +87,24 @@ When adding new sheet music:
 1. Save the file following the naming convention
 2. Add source information to `SOURCES.md` under the appropriate section
 3. Include availability status and any relevant notes
+
+## Quick Reference Guide
+
+### Finding Sheet Music by Emotion
+Look for emotion tags in filenames:
+- `[平靜]` - Calm, peaceful pieces
+- `[愉悅]` - Joyful, upbeat pieces  
+- `[憂傷]` - Melancholic, touching pieces
+- `[激勵]` - Inspiring, energetic pieces
+- `[懷舊]` - Nostalgic, reminiscent pieces
+
+Or browse by category in [SOURCES.md](SOURCES.md#popular-sheets)
+
+### Finding Night Piano Pieces
+- **Demo version (original)**: Look for `[0]` prefix (1-31)
+- **Album versions**: Look for `[Ⅰ][Ⅱ][Ⅲ][Ⅳ]` prefixes
+- Check [SOURCES.md](SOURCES.md#night-piano-series) for individual song names and sources
+
+### Identifying Practiced Sheets
+- Files with `~` symbol (e.g., `[憂傷-X]~周深 - 此生惟你.pdf`) have been practiced
+- Files without `~` are in the to-practice queue
