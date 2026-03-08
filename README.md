@@ -1,6 +1,12 @@
 # piano-sheet
 A personal collection of piano sheet music, including song titles and original sources.
 
+## Collection Overview
+
+- 📚 **Total**: 137 sheet music files
+  - 🎵 **Popular**: 56 pieces (organized by emotion)
+  - 🌙 **Night Piano**: 81 pieces (Shi Jin's series)
+
 ## Folder Structure
 
 ```
