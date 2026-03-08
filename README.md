@@ -66,7 +66,8 @@ All sheet music sources are documented in [SOURCES.md](SOURCES.md).
   - **Notes** for special conditions
 
 ### For Night Piano Series
-- Organized by chapters (０, Ⅰ, Ⅱ, Ⅲ, Ⅳ, V, Ⅵ)
+- Organized by chapters (0, Ⅰ, Ⅱ, Ⅲ, Ⅳ)
+  - Note: Chapters V and Ⅵ are documented in SOURCES.md but currently have no PDF files
 - **General sources**: URLs applicable to entire chapters
 - **Per-song sources**: Individual URLs for specific songs with their titles
 - Special notes marked with italics (e.g., *無曲譜來源*, *暫無來源*)
