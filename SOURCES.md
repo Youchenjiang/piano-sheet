@@ -170,7 +170,54 @@ This document tracks the sources for all piano sheet music in this collection.
 
 ## Night Piano Series
 
-*Sources will be added in the next update.*
+### 夜的鋼琴曲０
+
+- https://tw.everyonepiano.com/Music-albumpage-16.html
+- https://home.gamer.com.tw/creationDetail.php?sn=3163327
+
+
+### 夜的鋼琴曲Ⅰ
+
+- https://tw.everyonepiano.com/Music-albumpage-23.html
+
+
+### 夜的鋼琴曲Ⅱ
+
+- https://tw.everyonepiano.com/Music-albumpage-23.html
+
+
+### 夜的鋼琴曲Ⅲ
+
+- https://tw.everyonepiano.com/Music-albumpage-23.html
+- https://tw.everyonepiano.cn/Piano-7736.html
+- https://tw.everyonepiano.com/Music-14198.html
+- https://tw.everyonepiano.cn/Piano-7377.html
+- https://www.everyonepiano.cn/Music-13573.html
+- https://tw.everyonepiano.cn/Piano-13581.html
+- https://tw.everyonepiano.cn/Piano-13586.html
+- https://tw.everyonepiano.cn/Piano-13880.html
+- https://tw.everyonepiano.cn/Piano-13502.html
+
+
+### 夜的鋼琴曲Ⅳ
+
+- https://www.tan8.com/yuepu-88601.html
+- https://tw.everyonepiano.cn/Piano-13340.html
+- https://tw.everyonepiano.cn/Piano-13346.html
+- https://tw.everyonepiano.cn/Piano-13352.html
+- https://tw.everyonepiano.com/Music-13351-%E7%84%A1%E8%A8%80%E7%9A%84%E5%91%8A%E5%88%A5-%E5%A4%9C%E7%9A%84%E9%8B%BC%E7%90%B4%E6%9B%B2%E2%85%A3.html
+- https://tw.everyonepiano.cn/Piano-13609.html
+- https://tw.everyonepiano.cn/Piano-13341.html
+- https://tw.everyonepiano.com/Music-13347.html
+- https://tw.everyonepiano.cn/Piano-13567.html
+- https://tw.everyonepiano.cn/Piano-13682.html
+- https://tw.everyonepiano.com/Music-13724-%E6%88%91%E5%80%91%E7%9A%84%E5%A9%9A%E7%A6%AE-%E9%8B%BC%E7%90%B4%E7%8D%A8%E5%A5%8F%E7%89%88-%E5%A4%9C%E7%9A%84%E9%8B%BC%E7%90%B4%E6%9B%B2%E2%85%A3.html
+- https://tw.everyonepiano.com/Piano-13630.html
+
+
+### 夜的鋼琴曲Ⅵ
+
+*No sources available*
 
 ---
 
