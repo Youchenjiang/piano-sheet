@@ -35,11 +35,15 @@ A personal collection of piano sheet music, including song titles and original s
 - Example: `[0]1(一個人).pdf`, `[Ⅰ]32(一個人的時光).pdf`
 - Chapter markers:
   - `[0]` - Initial Demo version (網路連載版 1-31)
+    - Original online demos created from 2006-2010
+    - Most pieces only had numbers, not formal titles
   - `[Ⅰ]` - Season 1 Album (第一季專輯)
+    - First official album (2011), selected and remastered from demos
   - `[Ⅱ]` - Season 2 Album (第二季專輯)
   - `[Ⅲ]` - Season 3 Album (第三季專輯)
   - `[Ⅳ]` - Season 4 Album (第四季專輯)
 - No `~` marker as these are series collections
+- **Note**: Demo version `[0]` is the original complete creation; later albums are curated selections with improved audio quality
 
 ## Emotion Categories
 
