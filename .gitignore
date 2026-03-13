@@ -1,0 +1,11 @@
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# Google Drive temp files
+.tmp.driveupload/
+.tmp.drivedownload/
+
+# Python cache
+__pycache__/
+*.py[cod]
